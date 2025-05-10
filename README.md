@@ -26,7 +26,7 @@ Para executar o sistema completo, será necessário iniciar o servidor backend e
 
 ```bash
 git clone https://github.com/JnksDavu/numeros-cistercienses.git
-cd seu-repositorio
+cd numeros-cistercienses
 ```
 
 ---
